@@ -3,4 +3,6 @@ Include
 Lib
 Scripts
 pyvenv.cfg
+django_project/__pycache__/*
+django_project/settings.py
 
