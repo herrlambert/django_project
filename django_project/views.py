@@ -4,7 +4,7 @@ helloWorld = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>Your Django Droplet</title>
+<title>Meine Schoene Django Droplet</title>
 <style>
     body {
         width: 1000px;
